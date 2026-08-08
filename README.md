@@ -67,6 +67,7 @@ book-store-management-system/
 ├── main.py
 ├── books.csv
 ├── requirements.txt
+├── LICENSE
 └── README.md
 ```
 
