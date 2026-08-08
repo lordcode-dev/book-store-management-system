@@ -65,6 +65,7 @@ Users can add, view, search, update, and delete books. The application also perf
 book-store-management-system/
 │
 ├── main.py
+├── book_manager.py
 ├── books.csv
 ├── requirements.txt
 ├── LICENSE
@@ -74,10 +75,11 @@ book-store-management-system/
 ### File Description
 
 * `main.py` — Contains the main Python application.
+* 'book_manager.py' —contains all functions. 
 * `books.csv` — Stores the book records.
 * `requirements.txt` — Contains the required external Python libraries.
+* 'LICENCE' — contains the right to the code via MIT.
 * `README.md` — Contains the project documentation.
-
 ## ⚙️ How It Works
 
 1. When the program starts, it checks whether `books.csv` exists.
