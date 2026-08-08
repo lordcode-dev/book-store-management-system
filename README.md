@@ -75,10 +75,10 @@ book-store-management-system/
 ### File Description
 
 * `main.py` — Contains the main Python application.
-* 'book_manager.py' —contains all functions. 
+* `book_manager.py` — contains all functions. 
 * `books.csv` — Stores the book records.
 * `requirements.txt` — Contains the required external Python libraries.
-* 'LICENCE' — contains the right to the code via MIT.
+* `LICENCE` — contains the right to the code via MIT.
 * `README.md` — Contains the project documentation.
 ## ⚙️ How It Works
 
