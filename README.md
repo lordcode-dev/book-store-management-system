@@ -175,7 +175,11 @@ This project is ideal for:
 * Practicing CRUD operations.
 * Learning data manipulation in Python.
 * Understanding how a menu-driven console application works.
+##📄 License
 
+This project is licensed under the MIT License.
+
+See the LICENSE file for the full license text.
 ## 👥 Project Team
 
 This project was developed by **Group 8** as a collaborative Python project.
