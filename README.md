@@ -184,7 +184,7 @@ See the LICENSE file for the full license text.
 
 This project was developed by **Group 8** as a collaborative Python project.
 
-**Group:** Group 8
+**Group:** Group G
 **GitHub:** https://github.com/lordcode-dev/book-store-management-system
 
 ## 📄 Project Status
