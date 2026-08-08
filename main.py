@@ -24,11 +24,9 @@ def main():
             bm.delete_book()
 
         elif choice == "6":
-            print("\nThank you for using the Book Store Management System.")
-            print("Goodbye!")
+            bm.exit()
             break
-
         else:
-            print("Invalid input. Please enter a number from 1 to 6.")
+            bm.invalid()
 
 main()
