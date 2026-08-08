@@ -175,7 +175,7 @@ This project is ideal for:
 * Practicing CRUD operations.
 * Learning data manipulation in Python.
 * Understanding how a menu-driven console application works.
-##📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
